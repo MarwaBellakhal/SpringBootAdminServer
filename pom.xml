@@ -57,6 +57,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-boot-admin-server</finalName>
 	</build>
 
 </project>
